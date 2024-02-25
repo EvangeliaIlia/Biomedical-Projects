@@ -45,12 +45,12 @@ SELECT Patient_ID, Medications
 FROM Patients
 WHERE Medications LIKE '%example%';
 
-/* Find females with a specific type of condition and allergy */
-SELECT Patient_ID, Medications, Allergies
+/* Find males with a specific type of condition and allergy */
+SELECT Patient_ID, Medications , Allergies
 FROM Patients
-WHERE Gender = 'F'
-    AND Medications LIKE '%design%'
-    AND Allergies LIKE '%street%';
+WHERE Gender = 'M'
+    AND Medications LIKE '%account%'
+    AND Allergies LIKE '%above%';
 
 /* Display all the diffrent medical conditions and count their occurances*/
 SELECT
