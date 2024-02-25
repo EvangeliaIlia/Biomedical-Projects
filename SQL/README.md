@@ -31,7 +31,7 @@ correlated with the columns.
 
 ## Dataset Source
 The dataset used in this project was obtained from Kaggle. Please note that the license information for the dataset is 
-marked as "unknown" on Kaggle. You can directly download it from this file or from https://www.kaggle.com/datasets/cankatsrc/medical-records-dataset?resource=download
+marked as "unknown" on Kaggle. You can directly download it from this file or from [Kaggle Medical Records](https://www.kaggle.com/datasets/cankatsrc/medical-records-dataset?resource=download)
 
 
 ## Instructions
