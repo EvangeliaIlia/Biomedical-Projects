@@ -1,7 +1,7 @@
 # Medical Records SQL Project
 
 ## Overview
-This SQL project focuses on analyzing a simulated medical records dataset. The dataset is entirely fictional, generated using the Python Faker library, and is meant for demonstration and testing purposes only.
+This SQL project focuses on analyzing a simulated medical records dataset. The dataset is entirely fictional, found on Kaggle and was originally generated using the Python Faker library. It is meant for demonstration and testing purposes only.
 
 ## Dataset Description
 The dataset includes the following fields for each patient:
