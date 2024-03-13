@@ -21,6 +21,13 @@ This SQL project analyzes a simulated medical records dataset, generated using t
 The dataset used in this project was obtained from Kaggle. License information for the dataset is marked as "unknown" on Kaggle.
 You can directly download it from the SQL folder or from [Kaggle Medical Records](https://www.kaggle.com/datasets/cankatsrc/medical-records-dataset?resource=download) 
 
+### Excel Project
+
+**Description:** This project involves the analysis of a synthetic clinical trial dataset generated using Python's Faker library. The dataset includes information about patients participating in clinical trials, such as trial phase, outcomes, side effects, participant age, and gender.
+
+**Dataset Source:** The dataset was generated using Python and subsequently analyzed in Microsoft Excel.
+
+
 **Notes:**
 - These projects are for educational and illustrative purposes.
 - Dataset sources are credited in each project.
