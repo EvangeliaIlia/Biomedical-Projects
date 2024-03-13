@@ -32,7 +32,7 @@ The project files include:
 - `README.md`: This README file providing an overview of the project.
 
 ## Usage
-1. **Dataset Generation:** Run the provided Python script to generate the synthetic dataset.
+1. **Dataset Generation:** Run the provided Python script to generate the synthetic dataset or download the provided CSV.
 2. **Data Analysis:** Open the Excel file to view the dataset and analysis results.
 3. **Exploration:** Explore the pivot tables, charts, and summary metrics to gain insights into the clinical trial data.
 
