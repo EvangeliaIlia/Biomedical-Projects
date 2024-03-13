@@ -25,7 +25,7 @@ You can directly download it from the SQL folder or from [Kaggle Medical Records
 
 **Description:** This project involves the analysis of a synthetic clinical trial dataset generated using Python's Faker library. The dataset includes information about patients participating in clinical trials, such as trial phase, outcomes, side effects, participant age, and gender.
 
-**Dataset Source:** The dataset was generated using Python and subsequently analyzed in Microsoft Excel.
+**Dataset Source:** The dataset was generated using Python. Both the script and the generated CSV are available for download in the Excel repository.
 
 
 **Notes:**
