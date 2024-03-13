@@ -15,7 +15,7 @@ The dataset is sourced from the official NIH website [NIH Malaria Dataset](https
 ### SQL Project
 
 **Description:**
-This SQL project analyzes a simulated medical records dataset, generated using the Python Faker library. The dataset includes patient information, and queries are provided for various analyses.
+This SQL project analyzes a simulated medical records dataset found on Kaggle that was generated using the Python Faker library. The dataset includes patient information, and queries are provided for various analyses.
 
 **Dataset Source:**
 The dataset used in this project was obtained from Kaggle. License information for the dataset is marked as "unknown" on Kaggle.
