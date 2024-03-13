@@ -28,7 +28,7 @@ The data analysis was performed in Excel and involved several steps:
 The project files include:
 - `Fake_Clinical_Trial_Dataset.ipynb` : The python script notebook used to create the dataset (can be modified)
 - `clinical_trial_data.csv`: The synthetic dataset generated using Python.
-- `clinical_trial_analysis.xl`: The Excel file containing the dataset and analysis results.
+- `clinical_trial_analysis.xlsx`: The Excel file containing the dataset and analysis results.
 - `README.md`: This README file providing an overview of the project.
 
 ## Usage
